@@ -1,4 +1,4 @@
-import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v4.0/contracts/token/ERC20/ERC20.sol";
+import "https://github.com/OpenZeppelin/openzeppelin-contracts/tree/release-v4.5/contracts/token/ERC20/ERC20.sol";
 
 contract SwissSC is ERC20 
 {
@@ -7,4 +7,4 @@ contract SwissSC is ERC20
         
     } 
 
-}   
+}  
