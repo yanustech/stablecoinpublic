@@ -9,4 +9,4 @@ contract SwissSC is ERC20
         
     } 
 
-}   
+}    
